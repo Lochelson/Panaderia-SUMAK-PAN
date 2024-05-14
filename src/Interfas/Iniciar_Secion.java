@@ -92,7 +92,7 @@ public class Iniciar_Secion extends javax.swing.JFrame {
 
     private void btn_enterActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btn_enterActionPerformed
             // TODO add your handling code here:
-            String usuario = "P12345678";
+            String usuario = "Senko";
             String contraseña = "4545";
             String user;
             String pasword;
